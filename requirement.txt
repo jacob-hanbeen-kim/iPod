@@ -1,0 +1,13 @@
+IPOD
+  music
+
+MUSIC
+  artist
+  title
+  genre
+  length
+
+ARTIST
+  name
+  age
+  gender
